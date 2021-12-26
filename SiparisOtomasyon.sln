@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisOtomasyon", "SiparisOtomasyon\SiparisOtomasyon.csproj", "{7615AC74-6CD1-4B90-B19D-39BC32F1FFCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtomasyonProjesi", "..\..\..\source\repos\OtomasyonProjesi\OtomasyonProjesi\OtomasyonProjesi.csproj", "{B64D1689-FEF9-44A8-AC3F-8D89C526D879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7615AC74-6CD1-4B90-B19D-39BC32F1FFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7615AC74-6CD1-4B90-B19D-39BC32F1FFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7615AC74-6CD1-4B90-B19D-39BC32F1FFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7615AC74-6CD1-4B90-B19D-39BC32F1FFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64D1689-FEF9-44A8-AC3F-8D89C526D879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64D1689-FEF9-44A8-AC3F-8D89C526D879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64D1689-FEF9-44A8-AC3F-8D89C526D879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64D1689-FEF9-44A8-AC3F-8D89C526D879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E39E46A-77C8-4382-9968-F1128A923FB4}
+	EndGlobalSection
+EndGlobal
